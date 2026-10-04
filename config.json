@@ -1,0 +1,8 @@
+{
+  "base_url": "https://api.deepseek.com",
+  "api_key": "YOUR_DEEPSEEK_API_KEY",
+  "model": "deepseek-flash",
+  "concurrency": 4,
+  "chunk_chars": 1200,
+  "threshold": 70
+}

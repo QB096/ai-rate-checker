@@ -10,7 +10,7 @@ python ai_rate_checker.py 小说.txt          # CLI
 python ai_rate_checker.py --help            # 参数说明
 ```
 
-首次使用编辑 `config.json`，填入你的 DeepSeek API Key（本仓库不携带真实 Key）：
+首次使用编辑 `config.json`，填入你的 DeepSeek API Key：
 
 ```json
 { "base_url": "https://api.deepseek.com", "api_key": "YOUR_DEEPSEEK_API_KEY", ... }
